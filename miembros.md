@@ -1,7 +1,6 @@
-# Miembros
+﻿# Miembros
 
-* Black panther
-* Black Widow
+ Black Widow
 * Capitán America
 * Capitán Marvel
 * Falcon
